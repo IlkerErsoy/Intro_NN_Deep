@@ -6,9 +6,17 @@ List of readings available on the Web to start learning basics of neural network
 
 ## Machine Learning
 
-1. Introduction to Machine Learning. https://alex.smola.org/drafts/thebook.pdf is a good reference for general machine learning. 
+1. Nice collection of machine learning tutorials. 
+https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
+ * Start with following:
+  * Machine Learning Crash Course: Part 1. https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/  
+  * An Introduction to Machine Learning Theory and Its Applications: A Visual Tutorial with Examples. https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+  * A Gentle Guide to Machine Learning. https://monkeylearn.com/blog/gentle-guide-to-machine-learning/
+  
+
+2. Introduction to Machine Learning. https://alex.smola.org/drafts/thebook.pdf is a good reference for general machine learning. 
  
-2.  Introduction to machine learning in Python with scikit-learn (video series). Nice videos as intro to machine learning in Python
+3.  Introduction to machine learning in Python with scikit-learn (video series). Nice videos as intro to machine learning in Python
  https://www.dataschool.io/machine-learning-with-scikit-learn/
   
 
