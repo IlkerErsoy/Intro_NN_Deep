@@ -1,5 +1,4 @@
-# Intro_NN_Deep
-Introduction to Neural Networks and Deep Learning
+# Introduction to Neural Networks and Deep Learning
 
 List of readings available on the Web to start learning basics of neural networks and deep learning.
 
