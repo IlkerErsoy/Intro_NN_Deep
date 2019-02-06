@@ -41,7 +41,7 @@ The following provides basics of neural networks
  5. Simple Intro to Neural Networks
    * https://medium.com/machine-intelligence-report/how-do-neural-networks-work-57d1ab5337ce
   
- ### Videos explaining neural networks conecepts
+ ### Videos explaining neural networks concepts
  
    * what is neural network: https://www.youtube.com/watch?v=aircAruvnKk
    * how does neural network learn: https://www.youtube.com/watch?v=IHZwWFHWa-w
