@@ -39,6 +39,8 @@ The following provides basics of neural networks
   
  5. Simple Intro to Neural Networks
    * https://medium.com/machine-intelligence-report/how-do-neural-networks-work-57d1ab5337ce
+   
+ 6. Book: Pattern Classification, by Duda, Hart, Stork. Chapter 6.   
   
  ### Videos explaining neural networks concepts
  
