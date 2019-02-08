@@ -63,3 +63,14 @@ The following provides basics of neural networks
  
  3. CNN Tutorial video https://www.youtube.com/watch?v=Jy9-aGMB_TE
  
+ ## Image Processing Fundamentals
+ 
+ 1. Good slides to go through: https://folk.uib.no/eha070/mat262/lectures%202011/
+ 
+ 2. Reference books to provide a general introduction to image processing and cover fundamentals: 
+    * Digital Image Processing, by W. Pratt
+      * Chapters 5,7,10,17,19
+    * Digital Image Processing, by R. Woods and R. Gonzales 
+      * Chapters 1,2,3,10,12
+    * Two Dimensional Signal and Image Processing By J.S. Lim
+      * Chapters 1,3,7,8
